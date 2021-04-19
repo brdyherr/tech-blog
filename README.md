@@ -18,5 +18,5 @@ This application allow a user to sign up, login, and post their favorite tech ar
 ![image](./public/)
 
 ## Links
-[Github]()
-[Heroku]()
+- [Github]()
+- [Heroku]()
