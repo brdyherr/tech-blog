@@ -15,7 +15,7 @@ This application allow a user to sign up, login, and post their favorite tech ar
 * Handlebars.js
 
 ## Screenshots
-![image](./public/)
+![image](./public/tech-snip.JPG)
 
 ## Links
 - [Github]()
