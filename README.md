@@ -19,4 +19,4 @@ This application allow a user to sign up, login, and post their favorite tech ar
 
 ## Links
 - [Github](https://github.com/brdyherr/tech-blog)
-- [Heroku]()
+- [Heroku](https://tech-blog-herr.herokuapp.com/)
