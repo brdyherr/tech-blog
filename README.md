@@ -18,5 +18,5 @@ This application allow a user to sign up, login, and post their favorite tech ar
 ![image](./public/tech-snip.JPG)
 
 ## Links
-- [Github]()
+- [Github](https://github.com/brdyherr/tech-blog)
 - [Heroku]()
